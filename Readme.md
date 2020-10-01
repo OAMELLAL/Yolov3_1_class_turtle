@@ -17,7 +17,8 @@ Détaillé dans le fichier Apprentissage/Train_YoloV3_turtles_.ipynb
 Étape 3 : Tester le modèle entraîné.
 Détaillé dans le fichier Tester_Le_Modele/test.py
 
-Fichier des poids Yolo : https://drive.google.com/file/d/1fyTTnw8999rJs35ZBkghFgpWhL9YNMXE/view?usp=sharing  Taille : 235 Mo
+
+Lien de téléchargement du fichier yolov3_training_last.weights   : https://drive.google.com/file/d/1fyTTnw8999rJs35ZBkghFgpWhL9YNMXE/view?usp=sharing         Taille : 235 Mo
 
 
 <div align="center">
