@@ -19,6 +19,6 @@ Détaillé dans le fichier Tester_Le_Modele/test.py
 
 
 <div align="center">
-<img src=https://github.com/OAMELLAL/Yolov3_1_class_turtle/blob/master/Tester_Le_Modele/ResultatDeDetection/imageonline-co-merged-image%20(1).png" >
+<img src="https://github.com/OAMELLAL/Yolov3_1_class_turtle/blob/master/Tester_Le_Modele/ResultatDeDetection/imageonline-co-merged-image%20(1).png" >
 <p>Résultats de détection</p>
 </div>
