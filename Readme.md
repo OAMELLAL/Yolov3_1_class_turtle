@@ -17,4 +17,6 @@ Détaillé dans le fichier Apprentissage/Train_YoloV3_turtles_.ipynb
 Étape 3 : Tester le modèle entraîné.
 Détaillé dans le fichier Tester_Le_Modele/test.py
 
+![results](https://github.com/OAMELLAL/Yolov3_1_class_turtle/blob/master/Tester_Le_Modele/ResultatDeDetection/imageonline-co-merged-image%20(1).png)
+
 
